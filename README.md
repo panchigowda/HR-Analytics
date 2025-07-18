@@ -24,8 +24,7 @@ This interactive Power BI dashboard analyzes key HR metrics to help organization
   - Sales Executives: 57  
   - Research Scientists: 47  
   - Sales Representatives: 33  
-- **By Tenure**: Significant attrition spikes at 1 and 10 years of service
-
+- **By Tenure**: Highest attrition occurs at **1 year**, indicating many employees leave early in their employment.
 ---
 
 ## Tools Used
@@ -35,10 +34,16 @@ This interactive Power BI dashboard analyzes key HR metrics to help organization
 
 ---
 
+##  Files
+
+- HR-Analytics.pbix – Full interactive report
+- HR 1, HR 2, HR 3.png – Report preview image
+
+---
 
 ##  How to Use
 
-1. Download the '.pbix' file  
+1. Download the .pbix file  
 2. Open it in Power BI Desktop  
 3. Use slicers/filters to interact with the data and explore trends  
 
